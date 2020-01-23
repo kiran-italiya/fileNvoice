@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">fileNvoice</string>
+    <string name="title_activity_start_voice_recognition">StartVoiceRecognition</string>
+</resources>
