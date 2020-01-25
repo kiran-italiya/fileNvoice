@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">fileNvoice</string>
     <string name="title_activity_start_voice_recognition">StartVoiceRecognition</string>
+    <string name="application_not_available">Application not available</string>
+    <string name="copied_file_name">Copy of %s</string>
+
+    <string name="copied_file_name_2">Copy %1$d of %2$s</string>
 </resources>
