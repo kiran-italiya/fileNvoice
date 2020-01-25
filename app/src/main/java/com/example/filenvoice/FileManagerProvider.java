@@ -30,6 +30,7 @@ public class FileManagerProvider extends ContentProvider {
         return Uri.parse(FILE_PROVIDER_PREFIX).buildUpon()
                 .appendPath(filePath)
                 .build();
+
     }
 
     @Override
